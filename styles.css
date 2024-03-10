@@ -1,8 +1,4 @@
 @media (max-width: 600px) {
-  body {
-    background-color: #ffb5b5 !important;
-  }
-
   .temperature-converter {
     width: 25rem !important;
   }
@@ -17,14 +13,14 @@
 }
 
 body {
-  background-color: #ffb5b5 !important;
-  width: 0;
-  height: 0;
+  background-image: url("https://th.bing.com/th/id/R.f3093f6038566d444a9b75a9cd774579?rik=7FzXy5pmr28ycQ&pid=ImgRaw&r=0");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .card {
   border-radius: 5px;
   margin: 0 auto;
-
   position: relative;
   top: 150px;
 }
